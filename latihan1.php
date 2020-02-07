@@ -15,7 +15,5 @@ $mahasiswa = [
 
 $data = json_encode($mahasiswa);
 echo $data;
-//
-// apapunlah
 
  ?>
