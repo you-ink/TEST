@@ -1,0 +1,26 @@
+[
+  {
+    "nama" : "buku",
+    "jumlah" : 2,
+    "genre" : [
+      "fantasi", "magic"
+    ],
+    "pembelian" : true,
+    "buku" : {
+      "buku1" : "Hujan",
+      "buku2" : "Terang"
+    }
+  },
+  {
+    "nama" : "buku",
+    "jumlah" : 2,
+    "genre" : [
+      "fantasi", "magic"
+    ],
+    "pembelian" : true,
+    "buku" : {
+      "buku1" : "Hujan",
+      "buku2" : "Terang"
+    }
+  }
+]
