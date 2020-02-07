@@ -16,5 +16,6 @@ $mahasiswa = [
 $data = json_encode($mahasiswa);
 echo $data;
 // onmyway
+// ksk
 
  ?>
